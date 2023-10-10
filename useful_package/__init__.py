@@ -1,2 +1,1 @@
-import module_a.py
-import module_b
+import module_a
