@@ -1,2 +1,2 @@
 def hyperbola(x):
-    return 3/x
+    return float(3/x)
